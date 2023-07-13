@@ -1,8 +1,4 @@
 <center>
-
-![Error Loading](https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif)
-
-## coding cat gif:
 <img align="center" src="giphy.gif" />
 <br>
 
